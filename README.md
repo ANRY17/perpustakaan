@@ -58,3 +58,18 @@ php artisan serve
 ```bash
 npm run dev
 ```
+
+> List Akun :
+```bash
+# ADMIN
+Nomor : 1111
+Password : admin
+
+# PUSTAKAWAN
+Nomor : 2222
+Password : pustakawan
+
+# MEMBER (user)
+Nomor : 3333
+Password : member
+```
