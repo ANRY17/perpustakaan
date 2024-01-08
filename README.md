@@ -54,12 +54,12 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
-> Buka terminal baru, lalu jalankan.
+- Buka terminal baru, lalu jalankan.
 ```bash
 npm run dev
 ```
 
-> List Akun :
+- List Akun :
 ```bash
 # ADMIN
 Nomor : 1111
